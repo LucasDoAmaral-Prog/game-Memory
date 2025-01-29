@@ -55,7 +55,7 @@ Um **Memory Game** desenvolvido com **HTML, CSS e JavaScript puro**, otimizado p
 ## 📸 Demo
 [www.jogo-da-memoria.com](https://lucasdoamaral-prog.github.io/game-Memory/)
 
-📌 Como Usar
+## 📌 Como Usar
 
 1. Clone o repositório:
 ```bash
