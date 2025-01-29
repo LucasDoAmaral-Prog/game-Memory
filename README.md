@@ -16,7 +16,6 @@ A **Memory Game** developed using **HTML, CSS, and Vanilla JavaScript**, optimiz
 ✔️ Card flip animations for a dynamic experience  
 
 ✔️ Simple yet challenging gameplay  
-
 ## 🛠️ Technologies  
 - **HTML5** → Semantic structure for accessibility  
 - **CSS3** → Custom styles and animations  
