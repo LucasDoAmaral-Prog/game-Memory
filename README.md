@@ -22,12 +22,12 @@ A **Memory Game** developed using **HTML, CSS, and Vanilla JavaScript**, optimiz
 - **JavaScript (Vanilla JS)** → Core game functionality and logic  
 
 ## 📸 Demos  
-[www.memory-game.com](https://your-website.com/memory-game)
+[www.memory-game.com](https://lucasdoamaral-prog.github.io/game-Memory/)
 
 ## 📌 How to Use  
 1. Clone the repository:  
 ```bash
-   git clone https://github.com/your-username/memory-game.git
+   git clone https://github.com/LucasDoAmaral-Prog/memory-game.git
 ```
 2. Open the index.html file in your browser.
 3. Start the game and try to match all pairs of cards!
