@@ -53,7 +53,7 @@ Um **Memory Game** desenvolvido com **HTML, CSS e JavaScript puro**, otimizado p
 - JavaScript (Vanilla JS) → Funcionalidade principal do jogo e lógica
 
 ## 📸 Demo
-[www.jogo-da-memoria.com]
+[www.jogo-da-memoria.com](https://lucasdoamaral-prog.github.io/game-Memory/)
 
 📌 Como Usar
 
